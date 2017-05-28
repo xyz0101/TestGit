@@ -2,6 +2,6 @@ package com.tgit;
 
 public class T {
 public static void main(String[] args) {
-	System.out.println("²âÊÔ£»13.30");
+	System.out.println("ĞŞ¸Ä£º13.30");
 }
 }
